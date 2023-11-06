@@ -4,6 +4,7 @@
 To implement file management using sequential list.
 
 ## Algorithm:
+```
 Step 1: Start the program.
 Step 2: Get the number of memory partition and their sizes.
 Step 3: Get the number of processes and values of block size for each process.
@@ -12,7 +13,7 @@ Step 5: Best-fit algorithm searches the memory blocks for the smallest hole whic
 Step 6: Worst fit algorithm searches the memory blocks for the largest hole and allocates it to the process.
 Step 7: Analyses all the three memory management techniques and display the best algorithm which utilizes the memory resources effectively and efficiently.
 Step 8: Stop the program.
-
+```
 ## Program:
 ```
 #include <stdio.h>
